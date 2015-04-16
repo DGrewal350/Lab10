@@ -1,0 +1,1 @@
+Using a decorator is good because it helps clean up code. In this situation it is good because it allows us to be able to use certain additions when we want to and any combination of them
